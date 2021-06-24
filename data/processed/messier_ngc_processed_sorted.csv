@@ -1,0 +1,12 @@
+name,type,ra,dec,magnitude,proper_name,ra_original,dec_original,code,name_2
+M11,open cluster,18.851666666666667,-6.2666666666666675,5.8,Wild Duck Cluster,18h 51.1m,-6d 16',ᚸ,Wild Duck Cluster
+M24,star cloud,18.275,-18.83333333333333,4.6,Small Sagittarius Star Cloud,18h 16.5m,-18d 50',⎈,Small Sagittarius Star Cloud
+M25,open cluster,18.53,-19.116666666666667,4.6,,18h 31.8m,-19d 7',ᚸ,M25
+M31,spiral galaxy,0.7116666666666667,41.266666666666666,3.4,Andromeda Galaxy,00h 42.7m,+41d 16',⅏,Andromeda Galaxy
+M41,open cluster,6.7666666666666675,-20.75,4.5,,6h 46m,-20d 45',ᚸ,M41
+M42,emission nebula,5.588333333333333,-5.383333333333334,4.0,Orion Nebula,5h 35.3m,-5d 23',ᛥ,Orion Nebula
+M44,open cluster,8.666666666666666,19.666666666666668,3.1,Beehive Cluster,8h 40m,+19d 40',ᚸ,Beehive Cluster
+M45,open cluster,3.783333333333333,24.11666666666667,1.2,Seven Sisters,3h 47m,+24d 7',ᚸ,Seven Sisters
+M47,open cluster,7.61,-14.483333333333333,4.4,,7h 36.6m,-14d 29',ᚸ,M47
+M6,open cluster,17.671666666666667,-32.25,4.0,Butterfly Cluster,17h 40.3m,-32d 15',ᚸ,Butterfly Cluster
+M7,open cluster,17.898333333333333,-34.8,3.3,,17h 53.9m,-34d 48',ᚸ,M7
