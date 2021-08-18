@@ -6,7 +6,7 @@
 
 Here goes the product description text
 
-![Snapshot of final product](./readme_figures/finished_design.png)
+![Snapshot of final product](./readme_figures/finished_design.jpg)
 
 ------
 
