@@ -2,11 +2,11 @@
 
 ## Visible Stars and Constellations
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg?style=flat-square)](https://www.gnu.org/licenses/gpl-3.0) [![Twitter Follow](https://img.shields.io/twitter/follow/kurz_gesagt.svg?style=flat-square&logo=twitter&label=Follow)](https://twitter.com/kurz_gesagt)
+[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg?style=flat-square)](https://www.gnu.org/licenses/gpl-3.0)
 
 Here goes the product description text
 
-
+![Snapshot of final product](./readme_figures/finished_design.jpg)
 
 ------
 
