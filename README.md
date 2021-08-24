@@ -42,4 +42,4 @@ We put countless hours into the creation of our products. They are all designed 
 Everything we do is meant to spark your curiosity for science, nature, human beings and life itself.
 
 
-[**SHOP**](https://shop.kurzgesagt.org/)
+[**Shop**](https://shop.kurzgesagt.org/)
