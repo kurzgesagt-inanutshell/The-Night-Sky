@@ -58,7 +58,7 @@ Text
 
 ## Sources
 
-- [Source XY](https://link.org) – Our source document
+- [Source XY](https://kgs.link/nightsky) – Our source document
 - [Eleanor Lutz](https://github.com/eleanorlutz) – Thanks for making your code available on GitHub
 
 <a name="license"/>
