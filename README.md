@@ -28,7 +28,9 @@ Here goes the product description text
 
 **Data:** The data in this repository belongs to the original authors of the data. Please use the references section to look up the original version. 
 
-![Logo](https://kurzgesagt.org/wp-content/themes/kurzgesagt/library/images/logo.gif)
+<a name="about/>
+
+## About
 
 Kurzgesagt – In a Nutshell
 
