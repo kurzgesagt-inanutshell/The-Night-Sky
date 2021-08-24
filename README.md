@@ -17,7 +17,7 @@ Here goes the product description text
 
 ## Sources
 
-- [Source XY](https://kgs.link/nightsky) – Our source document
+- [Sources & further reading](https://kgs.link/nightsky) – Our source document
 - [Eleanor Lutz](https://github.com/eleanorlutz) – Thanks for making your code available on GitHub
 
 <a name="license"/>
@@ -28,6 +28,7 @@ Here goes the product description text
 
 **Data:** The data in this repository belongs to the original authors of the data. Please use the references section to look up the original version. 
 
+![Logo] (https://kurzgesagt.org/wp-content/themes/kurzgesagt/library/images/logo.gif)
 
-
+Kurzgesagt – In a Nutshell
 
