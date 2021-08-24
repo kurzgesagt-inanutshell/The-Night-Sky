@@ -15,7 +15,8 @@ Here goes the product description text
 
 **Notice:** This repository is a modified version of the project [The Western Constellations](https://github.com/eleanorlutz/western_constellations_atlas_of_space) from Eleanor Lutz, shared under the [GPL-3.0 license](https://www.gnu.org/licenses/gpl-3.0). If you like to read more about her process, code and thoughts behind the project, take a look at the original [repository](https://github.com/eleanorlutz/western_constellations_atlas_of_space).
 
-------
+
+
 
 <a name="sources"/>
 
@@ -24,7 +25,8 @@ Here goes the product description text
 - [Sources & further reading](https://kgs.link/nightsky) – Our source document.
 - [Eleanor Lutz](https://github.com/eleanorlutz) – Thanks for making your code available on GitHub.
 
-------
+
+
 
 <a name="data"/>
 
@@ -38,7 +40,8 @@ Here goes the product description text
 - [Catalogue of Constellation Boundary Data](http://cdsarc.u-strasbg.fr/viz-bin/Cat?VI/49#sRM2.2). A.C. Davenhall and S.K. Leggett. Royal Observatory Edinburgh 1989.
 - [Stellarium](https://stellarium.org/) 2019 version 0.19.0.
 
-------
+
+
 
 <a name="license"/>
 
@@ -48,7 +51,8 @@ Here goes the product description text
 
 **Data:** The data in this repository belongs to the original authors of the data. Please use the **Data** section above to look up the original version. 
 
-------
+
+
 
 <a name="about"/>
 
