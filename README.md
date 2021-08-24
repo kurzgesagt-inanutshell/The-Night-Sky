@@ -43,7 +43,7 @@ Here goes the product description text
 
 **Code:** All of the code in this repository is shared under the [GPL-3.0 license](https://www.gnu.org/licenses/gpl-3.0).
 
-**Data:** The data in this repository belongs to the original authors of the data. Please use the references section to look up the original version. 
+**Data:** The data in this repository belongs to the original authors of the data. Please use the **Data** section above to look up the original version. 
 
 
 <a name="about"/>
