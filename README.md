@@ -25,7 +25,6 @@ Here goes the product description text
 
 ## Data
 
-- [Astronomy](https://openstax.org/details/astronomy). Andrew Fraknoi, David Morrison, Sidney C. Wolff et al. OpenStax 2016.
 - [Concise Catalog of Deep-sky Objects](https://www.springer.com/us/book/9781852338510). W.H. Finlay. Springer 2003.
 - [Urania's mirror, or, A view of the heavens](https://www.loc.gov/item/2013645050/). Richard Rouse Bloxam, Sidney Hall, and Jehoshaphat Aspin. Samuel Leigh 1824.
 - [Unicode Character Table](https://unicode-table.com/en/). Sergei Asanov and Oleg Grigoriev. 2019.
@@ -33,6 +32,7 @@ Here goes the product description text
 - [Western Constellation Lines](http://hemel.waarnemen.com/download/#cetera). Marc van der Sluys 2005.
 - [Catalogue of Constellation Boundary Data](http://cdsarc.u-strasbg.fr/viz-bin/Cat?VI/49#sRM2.2). A.C. Davenhall and S.K. Leggett. Royal Observatory Edinburgh 1989.
 - [Stellarium](https://stellarium.org/) 2019 version 0.19.0.
+
 
 <a name="license"/>
 
@@ -42,10 +42,12 @@ Here goes the product description text
 
 **Data:** The data in this repository belongs to the original authors of the data. Please use the references section to look up the original version. 
 
+
 <a name="about"/>
 
 ## About
 ![Birbs](https://cdn.shopify.com/s/files/1/0252/6822/4088/files/Banner_About_2048x.jpg?v=1627225649)
+
 
 ### **ABOUT KURZGESAGT**
 
