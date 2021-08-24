@@ -33,7 +33,7 @@ Here goes the product description text
 ## About
 ![Birbs](https://cdn.shopify.com/s/files/1/0252/6822/4088/files/Banner_About_2048x.jpg?v=1627225649)
 
-###ABOUT KURZGESAGT
+### **ABOUT KURZGESAGT**
 
 We are a Germany based animation studio, production house and design studio. We produce elaborate science videos for our YouTube channel and create high-quality paper products for this shop.
 
