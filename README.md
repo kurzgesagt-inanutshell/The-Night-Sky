@@ -33,4 +33,10 @@ Here goes the product description text
 ## About
 ![Birbs](https://cdn.shopify.com/s/files/1/0252/6822/4088/files/Banner_About_2048x.jpg?v=1627225649)
 
-Kurzgesagt – German for „In a nutshell“ is a Munich-based YouTube channel and design studio with a unique perspective on design, color, and storytelling. We engage in information design projects of all kind, but are best known for our distinctive animation videos. We want our work to raise awareness for topics from the fields of science, space, technology, biology, history and philosophy. Our goal is to inspire people to learn – and we believe humor and a good story to tell are just as important as straight facts.
+###ABOUT KURZGESAGT
+
+We are a Germany based animation studio, production house and design studio. We produce elaborate science videos for our YouTube channel and create high-quality paper products for this shop.
+
+We put countless hours into the creation of our products. They are all designed with love and produced with great care. They are more than merch and nothing short of a passion project for us.
+
+Everything we do is meant to spark your curiosity for science, nature, human beings and life itself.
