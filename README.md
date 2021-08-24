@@ -13,47 +13,6 @@ Here goes the product description text
 **Notice:** This repository is a fork of the project  [The Western Constellations](https://github.com/eleanorlutz/western_constellations_atlas_of_space) from Eleanor Lutz, shared under the [GPL-3.0 license](https://www.gnu.org/licenses/gpl-3.0). If you like to read more about her process, code and thoughts behind the project, take a look at the original [repository](https://github.com/eleanorlutz/western_constellations_atlas_of_space).
 
 
-
-## Table of Contents
-
-1. [One](#one)
-2. [Two](#two)
-3. [Three](#three)
-4. [Sources](#sources)
-5. [License](#license)
-
-<a name="one"/>
-
-## Headline
-
-#### Subline
-
-Text
-
-<a name="two"/>
-
-## Headline
-
-#### Subline
-
-Text
-
-#### Subline
-
-Text
-
-#### Subline
-
-Text
-
-<a name="three"/>
-
-## Headline
-
-#### Subline
-
-Text
-
 <a name="sources"/>
 
 ## Sources
@@ -69,7 +28,6 @@ Text
 
 **Data:** The data in this repository belongs to the original authors of the data. Please use the references section to look up the original version. 
 
-**Artwork:** The artwork included in this repository are shared under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
 
 
