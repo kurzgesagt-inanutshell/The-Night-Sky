@@ -40,3 +40,5 @@ We are a Germany based animation studio, production house and design studio. We 
 We put countless hours into the creation of our products. They are all designed with love and produced with great care. They are more than merch and nothing short of a passion project for us.
 
 Everything we do is meant to spark your curiosity for science, nature, human beings and life itself.
+
+[kurzgesagt shop](https://shop.kurzgesagt.org/)
