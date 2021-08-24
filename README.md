@@ -6,7 +6,7 @@
 
 Here goes the product description text
 
-**Get your own **[**The Night Sky Poster**](https://shop.kurzgesagt.org/)
+**Get your own ** [**The Night Sky Poster**](https://shop.kurzgesagt.org/)
 
 
 ![Snapshot of final product](./readme_figures/finished_design.jpg)
