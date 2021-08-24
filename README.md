@@ -28,9 +28,9 @@ Here goes the product description text
 
 **Data:** The data in this repository belongs to the original authors of the data. Please use the references section to look up the original version. 
 
-<a name="about/>
+<a name="about"/>
 
 ## About
+![Birbs](https://kurzgesagt.org/wp-content/themes/kurzgesagt/library/images/svg/about-header.svg)
 
-Kurzgesagt – In a Nutshell
-
+Kurzgesagt – German for „In a nutshell“ is a Munich-based YouTube channel and design studio with a unique perspective on design, color, and storytelling. We engage in information design projects of all kind, but are best known for our distinctive animation videos. We want our work to raise awareness for topics from the fields of science, space, technology, biology, history and philosophy. Our goal is to inspire people to learn – and we believe humor and a good story to tell are just as important as straight facts.
