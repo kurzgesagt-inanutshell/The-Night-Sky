@@ -31,6 +31,6 @@ Here goes the product description text
 <a name="about"/>
 
 ## About
-![Birbs](https://cdn.shopify.com/s/files/1/0254/0516/1520/files/switcher_1728x.png?v=1607699507)
+![Birbs](https://cdn.shopify.com/s/files/1/0252/6822/4088/files/Banner_About_2048x.jpg?v=1627225649)
 
 Kurzgesagt – German for „In a nutshell“ is a Munich-based YouTube channel and design studio with a unique perspective on design, color, and storytelling. We engage in information design projects of all kind, but are best known for our distinctive animation videos. We want our work to raise awareness for topics from the fields of science, space, technology, biology, history and philosophy. Our goal is to inspire people to learn – and we believe humor and a good story to tell are just as important as straight facts.
