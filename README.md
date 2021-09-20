@@ -11,6 +11,7 @@ Here goes the product description text
 
 ![Snapshot of final product](./readme_figures/finished_design.jpg)
 
+
 ------
 
 **Notice:** This repository is a modified version of the project [The Western Constellations](https://github.com/eleanorlutz/western_constellations_atlas_of_space) from Eleanor Lutz, shared under the [GPL-3.0 license](https://www.gnu.org/licenses/gpl-3.0). If you like to read more about her process, code and thoughts behind the project, take a look at the original [repository](https://github.com/eleanorlutz/western_constellations_atlas_of_space).
