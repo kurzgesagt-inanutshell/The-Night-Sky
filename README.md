@@ -11,6 +11,7 @@ Here goes the product description text
 
 ![Snapshot of final product](./readme_figures/finished_design.jpg)
 
+![Snapshot of final product](./readme_figures/finished_design_details.png)
 
 ------
 
