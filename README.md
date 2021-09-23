@@ -1,4 +1,4 @@
-# The Night Sky
+# The Night Sky Poster
 
 ## Visible Stars and Constellations
 
