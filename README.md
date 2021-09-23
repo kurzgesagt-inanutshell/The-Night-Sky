@@ -4,9 +4,10 @@
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg?style=flat-square)](https://www.gnu.org/licenses/gpl-3.0)
 
-Here goes the product description text
+Bring a piece of the night sky into your home and learn all about the stars and their special significance for humanity.
+Stars have served as the foundation of calendars, the inspiration for epic tales and were even used to predict the future. Today we are still fascinated by the stars, as we discover more about them than ever before. 
 
-**Get your own** [**The Night Sky Poster**](https://shop.kurzgesagt.org/)
+**Get your own** [**The Night Sky Poster**](https://shop-us.kurzgesagt.org/collections/special-posters)
 
 
 ![Snapshot of final product](./readme_figures/finished_design.jpg)
